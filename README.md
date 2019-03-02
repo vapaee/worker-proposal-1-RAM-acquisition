@@ -6,9 +6,11 @@ vapaee worker proposal 1
 ## What is **Cards & Tokens** ?
   - It's an entertainment and self-diffusion platform where users can create collectible cards and thematic albums to fill and win tokens.
   - This platform is designed to provide gamification services to other applications through its low-level **boardgamebox** module.
+## Why does it need so much RAM ?
   - **Cards & Tokens** platform is a very high RAM consumer because users will collect NFT which are stored separately on memory.
+  - This platform is planned to be implemented in such way that users don't have to worry about the technology behind (until certain threshold).
 ## Who benefit from this financing ?
-  - The beneficiaries would be the users of **Cards & Tokens** because they will not have to run the high RAM costs that the platform requires.
+  - The beneficiaries would be the users of **Cards & Tokens** because they will not have to run with the high RAM costs that the platform requires.
   - The main and biggest beneficiaries will be the new users, who despite having few resources to interact with the blockchain will still be able to interact with this platform and collect lots of cards.
   - **Cards & Tokens** will be fully developed on Telos chain. So, if it is successful (and I am very confident that it will be) it will attract many users to this network, which will greatly benefit the entire Telos community.
 ## Why go to a worker proposal ?
