@@ -4,12 +4,12 @@ vapaee worker proposal 1
 # Financing the RAM cost of the **Cards & Tokens**'s core smart contract
 
 ## What is **Cards & Tokens** ?
-  - It's an entertainment platform where users can create collectible cards and thematic albums to fill and win tokens.  
+  - ### It's an entertainment platform where users can create collectible cards and thematic albums to fill and win tokens.  
     - In this platform content creators may publish great trading cards embedding their work on each card. Then they can sell, auction or give away copies of those cards for the rest of users to collect.
     - Cards will gain points as people interact with them through likes, comments, categorizations and market stats. That makes the cards to level up.
     - The albums are the first type of minigame in which users may play using the copies they have.
     - The platform is a plugin-driven structure, allowing other Apps to implement all kind of plugins using the cards as the main gaming object.
-  - This platform is designed to provide abstract gamification services to other applications through its low-level **boardgamebox** module. Some of those services would be:
+  - ### This platform is designed to provide abstract gamification services to other applications through its low-level **boardgamebox** module. Some of those services would be:
     - profiles: each account can have more than one profile (like in facebook you can have your personal acount plus several pages)
     - items & containers: apps may register and define several items and containers. Then delegate to this module all kind of functionalities arround those concepts like:
       - creation: create containers with specific item filters, issue container instances for specific profile, create new specific items, issue units of those specific items, etc.
@@ -19,11 +19,11 @@ vapaee worker proposal 1
     - authorship: each element has at least one author profile. If the element receives rewards it will be distributed among all author profiles depending on the percentage of authorship.
     - more coming soon...
 ## Why does it need so much RAM ?
-  - **Cards & Tokens** platform is a very high RAM consumer because users will collect NFTs, which are stored separately on memory.
-    - NTF: stands for Not Fungible Token, meaning that two units of the same token type can not be merged together. Each of them must be stored on its own place (physically on memory). That is because each instance has its own properties.  
+  - ### **Cards & Tokens** platform is a very high RAM consumer because users will collect NFTs, which are stored separately on memory.
+    - NTF: stands for Not Fungible Token, meaning that two units of the same token type can not be merged together. Each of them must be stored on its own place (physically on memory). That is because each instance has its own properties.
     Eg: where is the unit located? is there any add-on affecting a specific unit? has the unit any enhancement over the rest?
     - In this platform users collect copies of cards and each one has to be stored in a specific container in a specific place (like the inventory or any album). Some slots of some albums will have specific modifiers on the points that a copy of the card grants if it's placed there. For that to work, we need to store all of that data separately on memory.
-  - This platform is planned to be implemented in such way that users don't have to worry about the technology behind (until certain threshold).
+  - ### This platform is planned to be implemented in such way that users don't have to worry about the technology behind (until certain threshold).
     - In Cards & Tokens users can create an account by simply login with other social medias like twitter, google or steemit. This way we can reduce the addoption friction for new users to start using the platform.
     - Under the hood, the platform manages all the interaction with the blockchain without the user even being aware of that. It creates a temporary profile in the **boardgamebox** module and keeps the ownership of that profile until the user claims it.
     - These temporary profiles will have certain limitations, which will motivate the users to create their own account on the Telos blockchain and claim the authorship of their profile. This way the user is forced to learn how to interact with the blochcian are his own account and as a prize he gets access to all the functionalities of the system.
@@ -36,10 +36,10 @@ vapaee worker proposal 1
   - Although I am working hard to form a company and be able to dedicate myself completely to this, I still do not have the financial resources to do it and I must work on something else (have a job) to cover the basic cost of living.
   - Throughout these last three months I have been able to save the extra earnings on my normal salary, in order to pay the cost of that RAM. However, I had the misfortune of being hacked in my account and all the funds that I had saved were stolen.
 ## How much is asked and for what exactly ?
-  - Summary: 25,000.0000 TLOS
-    - ~23K TLOS -> 200Mb RAM for two of the tree main smart contracts of the system (100Mb each).
-    - ~3K TLOS -> for staking (CPU & BW) for both contracts.
-  - More detailed:  
+  - ### Summary: 25,000.0000 TLOS
+    - ~23K TLOS for buying 200Mb RAM for two of the tree main smart contracts of the system (100Mb each).
+    -  ~3K TLOS for staking (CPU & BW) for both contracts.
+  - ### More detailed:  
     - The entire system of **Cards & Tokens** consists of three smart contracts:
         - **cardsntokens**: implements the details of the application *per se* (cards, contnet, points, likes, album integration, prices, etc).
         - **boardgamebox**: implements abstract gamification services (profiles, authorship, ownership, items, containers and many more comming soon).
