@@ -4,7 +4,11 @@ vapaee worker proposal 1
 # Financing the RAM cost of the **Cards & Tokens**'s core smart contract
 
 ## What is **Cards & Tokens** ?
-  - It's an entertainment and self-diffusion platform where users can create collectible cards and thematic albums to fill and win tokens.
+  - It's an entertainment and self-diffusion platform where users can create collectible cards and thematic albums to fill and win tokens.  
+    - In this platform content creators may publish great trading cards embedding their work on each card. Then sell, auction or give away copies of those cards for the rest of users to collect.
+    - Cards will gain points as people interact with it throw likes, comments, categorizations and market stats. That makes the cards to level up.
+    - The albums are the first type of minigame in which users may play using the copies they have.
+    - The platform is a plugin-driven structure. Allowing other Dapps to implement all kind of plugins using the cards as the main gaming object.
   - This platform is designed to provide gamification services to other applications through its low-level **boardgamebox** module.
 ## Why does it need so much RAM ?
   - **Cards & Tokens** platform is a very high RAM consumer because users will collect NFT which are stored separately on memory.
@@ -19,8 +23,8 @@ vapaee worker proposal 1
   - Throughout these last three months I have been able to save the extra earnings on my normal salary, in order to pay the cost of that RAM. However, I had the misfortune of being hacked in my account and all the funds that I had saved were stolen.
 ## How much is asked and for what exactly ?
   - Summary: 25,000.0000 TLOS
-    - 200Mb RAM for two of the tree main smart contracts of the system.
-    - 25K TLOS - cost_of(200Mb RAM) for staking (CPU & BW) for both contracts.
+    - ~23K TLOS -> 200Mb RAM for two of the tree main smart contracts of the system (100Mb each).
+    - ~3K TLOS -> for staking (CPU & BW) for both contracts.
   - More detailed:  
     - The entire system of **Cards & Tokens** consists of three smart contracts:
         - **cardsntokens**: implements the details of the application *per se* (cards, contnet, points, likes, album integration, prices, etc).
