@@ -15,7 +15,7 @@ Vapaée - worker proposal 1
         - **categorizers**: implements decentralized content categorization and filtering.
     - Because the total RAM cost for the contract **vapaeetokens** was not that high (less than 5Mb), I was able to pay it off completely from my own money.
     - However, I needed several months to raise some money to pay the cost of a reasonable amount of RAM for the entire system but unfortunately I lost everything when I was hacked recently. It was planned to buy 100M of RAM for each of the other three contracts (**cardsntokens**, **boardgamebox** and **categorizers**).
-    - The total cost in TLOS is less than 35K TLOS for the 300Mb RAM. The rest of the Tokens are planned to be distributed and staked for CPU and Band Width.
+    - The total cost in TLOS is less than 35K TLOS for the 300Mb RAM. The rest of the Tokens are planned to be staked for CPU and Band Width.
 ## What is **Cards & Tokens** ?
   - ### It's an entertainment platform where users can create collectible cards and thematic albums to fill and win tokens.  
     - In this platform content creators may publish great trading cards embedding their work on each card. Then they can sell, auction or give away copies of those cards for the rest of users to collect.
