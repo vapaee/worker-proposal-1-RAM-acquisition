@@ -57,7 +57,21 @@ Vapaée - worker proposal 1
   - Although I am working hard to form a company and be able to dedicate myself completely to this, I still do not have the financial resources to do it and I must work on something else (have a job) to cover the basic cost of living.
   - Throughout these last three months I have been able to save the extra earnings on my normal salary, in order to pay the cost of that RAM. However, I had the misfortune of being hacked in my account and all the funds that I had saved were stolen.
 ## What are the timing for the releases ?
-  coming soon...
+  - [x] Build a functional prototype (proof of concept, no blockchain involved).
+  - [x] Create social accounts and start creating community.
+  - [x] Communicate with the Telos Foundation seeking support.
+  - [x] Build Telos Albums and 10 Telos trading cards.
+  - [x] Update the landing page.
+  - [x] Perform the CNT Token Airdrop ('vapaeetokens' smart contract).
+  - [x] Write a worker proposal to ask for RAM financing.
+  - **Write a white paper for the project** (couple of days)
+  - **Listing the CNT token in different exchanges** (a week or more).
+  - **Build the base functionalities of items and containers ('boardgamebox' smart contract)** (about a month).
+  - [ ] Build the cards, inventory, albums and templates ('cardsntokens' smart contract) (about a month).
+  - [ ] Build a webapp interacting with the smart contracts on Telos (a week or more).
+  - [ ] Reward Steemit OpenMic trading cards authors with CNT tokens over Telso blockchain.
+  - [ ] There will be test period and fine tuning before your DApp goes live.
+  - [ ] There are several ideas and complex features which will be added as DApps gets mature.  
 
 ## Links and References
   - [web site](http://cardsandtokens.com)
@@ -66,4 +80,4 @@ Vapaée - worker proposal 1
   - [video - demo](https://www.youtube.com/watch?v=jhL1KyifGEs)
   - [CNT airdrop](https://steemit.com/eos/@viterbo/cards-and-tokens-cnt-token-airdrop)
   - [Telegram group](https://t.me/cardsandtokens)
-  - post about my hack (coming soon)
+  - [post about my hack](https://steemit.com/telos/@viterbo/details-about-my-telos-account-hack)
