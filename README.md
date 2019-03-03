@@ -4,8 +4,8 @@ Vapaée - worker proposal 1
 # Financing the RAM cost of the **Cards & Tokens** smart contracts
 
 ## How much is asked and for what exactly ?
-  - ### Summary: 35,000.0000 TLOS to buy resources for the Cards & Tokens platform.
-    - ~33K TLOS for buying 300Mb RAM for tree of the four smart contracts of the system (100Mb each).
+  - ### Summary: 30,000.0000 TLOS to buy resources for the Cards & Tokens platform.
+    - ~27K TLOS for buying 300Mb RAM for three of the four smart contracts (100Mb each at 0.09 TLOS per 1Kb).
     -  ~3K TLOS for staking (CPU & BW) for both contracts.
   - ### More detailed:  
     - The entire system of **Cards & Tokens** consists of four smart contracts:
@@ -15,7 +15,7 @@ Vapaée - worker proposal 1
         - **categorizers**: implements decentralized content categorization and filtering.
     - Because the total RAM cost for the contract **vapaeetokens** was not that high (less than 5Mb), I was able to pay it off completely from my own money.
     - However, I needed several months to raise some money to pay the cost of a reasonable amount of RAM for the entire system but unfortunately I lost everything when I was hacked recently. It was planned to buy 100M of RAM for each of the other three contracts (**cardsntokens**, **boardgamebox** and **categorizers**).
-    - The total cost in TLOS is less than 35K TLOS for the 300Mb RAM. The rest of the Tokens are planned to be staked for CPU and Band Width.
+    - The total cost in TLOS is less than 30K TLOS for the 300Mb RAM. The rest of the Tokens are planned to be staked for CPU and Band Width.
 ## What is **Cards & Tokens** ?
   - ### It's an entertainment platform where users can create collectible cards and thematic albums to fill and win tokens.  
     - In this platform content creators may publish great trading cards embedding their work on each card. Then they can sell, auction or give away copies of those cards for the rest of users to collect.
@@ -56,6 +56,8 @@ Vapaée - worker proposal 1
   - Given that "if **Cards & Tokens** is successful it would benefit the Telos community", it is prudent to ask the community itself for help to make this success even more likely.
   - Although I am working hard to form a company and be able to dedicate myself completely to this, I still do not have the financial resources to do it and I must work on something else (have a job) to cover the basic cost of living.
   - Throughout these last three months I have been able to save the extra earnings on my normal salary, in order to pay the cost of that RAM. However, I had the misfortune of being hacked in my account and all the funds that I had saved were stolen.
+## What are the timing for the releases ?
+  coming soon...
 
 ## Links and References
   - [web site](http://cardsandtokens.com)
