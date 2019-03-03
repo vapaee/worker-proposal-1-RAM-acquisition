@@ -57,7 +57,7 @@ Vapaée - worker proposal 1
   - Although I am working hard to form a company and be able to dedicate myself completely to this, I still do not have the financial resources to do it and I must work on something else (have a job) to cover the basic cost of living.
   - Throughout these last three months I have been able to save the extra earnings on my normal salary, in order to pay the cost of that RAM. However, I had the misfortune of being hacked in my account and all the funds that I had saved were stolen.
 ## What are the timing for the releases ?
-  Behind this project it's just me working hard on every free time I have (weekends, licences, holidays, after midnight, etc). I'm really passionate about this project and I will make it work for sure, but for now I can't guarantee timing because it goes slow (but as fast as I can).
+  Behind this project it's just only me, working hard on every free time I have (weekends, licences, holidays, after midnight, etc). I'm really passionate about this project and I will make it work for sure, but for now I can't guarantee timing because it goes slow (but as fast as I can).
   You can check the following Read Map where I just finished to write the worker proposal. The **bold points** are the ones I'm working on right now.
   
   - [x] Build a functional prototype (proof of concept, no blockchain involved).
