@@ -4,7 +4,7 @@ Vapaée - worker proposal 1
 # Financing the RAM cost of the **Cards & Tokens** smart contracts
 
 ## How much is asked and for what exactly ?
-  - ### Summary: 35,000.0000 TLOS to by resources for the Cards & Tokens platform.
+  - ### Summary: 35,000.0000 TLOS to buy resources for the Cards & Tokens platform.
     - ~33K TLOS for buying 300Mb RAM for tree of the four smart contracts of the system (100Mb each).
     -  ~3K TLOS for staking (CPU & BW) for both contracts.
   - ### More detailed:  
