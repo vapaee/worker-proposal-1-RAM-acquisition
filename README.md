@@ -56,3 +56,12 @@ vapaee worker proposal 1
   - Given that "if **Cards & Tokens** is successful it would benefit the Telos community", it is prudent to ask the community itself for help to make this success even more likely.
   - Although I am working hard to form a company and be able to dedicate myself completely to this, I still do not have the financial resources to do it and I must work on something else (have a job) to cover the basic cost of living.
   - Throughout these last three months I have been able to save the extra earnings on my normal salary, in order to pay the cost of that RAM. However, I had the misfortune of being hacked in my account and all the funds that I had saved were stolen.
+
+## Links and References
+  - [web site](http://cardsandtokens.com)
+  - [video - last year promo (outdated)](https://www.youtube.com/watch?v=YSVJgKsSobA)
+  - [demo web app](http://app.cardsandtokens.com/)
+  - [video - demo](https://www.youtube.com/watch?v=jhL1KyifGEs)
+  - [CNT airdrop](https://steemit.com/eos/@viterbo/cards-and-tokens-cnt-token-airdrop)
+  - [Telegram group](https://t.me/cardsandtokens)
+  - post about my hack
