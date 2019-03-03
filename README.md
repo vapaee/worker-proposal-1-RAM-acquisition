@@ -1,4 +1,4 @@
-vapaee worker proposal 1
+Vapaée - worker proposal 1
 ------------------------
 
 # Financing the RAM cost of the **Cards & Tokens** smart contracts
