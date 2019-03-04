@@ -83,4 +83,4 @@ Vapaée - worker proposal 1
   - [video - demo](https://www.youtube.com/watch?v=jhL1KyifGEs)
   - [CNT airdrop](https://steemit.com/eos/@viterbo/cards-and-tokens-cnt-token-airdrop)
   - [Telegram group](https://t.me/cardsandtokens)
-  - [post about my hack](https://steemit.com/telos/@viterbo/details-about-my-telos-account-hack)
+  - [post about my hack](https://steemit.com/telos/@viterbo/about-my-telos-account-hack)
