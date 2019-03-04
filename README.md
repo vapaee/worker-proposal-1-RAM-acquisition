@@ -1,3 +1,5 @@
+![cards-and-tokens-full.png](./images/cards-and-tokens-full.png)
+
 Vapaée - worker proposal 1
 ------------------------
 
