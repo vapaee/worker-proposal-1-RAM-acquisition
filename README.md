@@ -84,6 +84,7 @@ Vapaée - worker proposal 1
   - [video - last year promo (outdated)](https://www.youtube.com/watch?v=YSVJgKsSobA)
   - [demo web app](http://app.cardsandtokens.com/)
   - [video - demo](https://www.youtube.com/watch?v=jhL1KyifGEs)
+  - [white paper (incomplete draft)](https://github.com/vapaee/cards-and-tokens-white-paper)
   - [CNT airdrop](https://steemit.com/eos/@viterbo/cards-and-tokens-cnt-token-airdrop)
   - [Telegram group](https://t.me/cardsandtokens)
   - [post about my hack](https://steemit.com/telos/@viterbo/about-my-telos-account-hack)
