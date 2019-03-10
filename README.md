@@ -3,7 +3,7 @@
 Vapaée - worker proposal 1
 ------------------------
 
-# Financing the RAM cost of the **Cards & Tokens** smart contracts
+# Financing initial resources for **Cards & Tokens**
 
 ## How much is asked and for what exactly ?
   - ### Summary: 40,000.0000 TLOS to buy resources for the Cards & Tokens platform.
